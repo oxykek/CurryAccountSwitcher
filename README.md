@@ -1,6 +1,6 @@
 # Description
 
-Autism Client Account Manger separated from the client and back ported
+Autism Client Account Manager separated from the client and back ported
 To 1.21.11 and Recolored  
 
 # AUTISM Account Manager for Minecraft 1.21.11
