@@ -1,3 +1,8 @@
+# Description
+
+Autism Client Account Manger separated from the client and back ported
+To 1.21.11 and Recolored  
+
 # AUTISM Account Manager for Minecraft 1.21.11
 
 Unofficial backport of Melonik's **AUTISM Account Manager 5.0 for 26.2**, supplied in
