@@ -108,3 +108,9 @@ The main adaptations are `GuiGraphics`/screen rendering, `PlayerModel` previews,
 Minecraft's pre-friends session-service layout, Java 21 DPAPI through Minecraft's
 bundled JNA libraries, and repaired generic types lost during decompilation.
 The original binary is retained unchanged at the repository root.
+
+## Credits
+https://github.com/Meloniiiiik
+https://github.com/MistressOfDNS
+https://github.com/Autisminc-dev
+https://github.com/AutismDevelopment/Autism-Client
