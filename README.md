@@ -1,7 +1,9 @@
 # Description
 
 Autism Client Account Manager separated from the client and back ported
-To 1.21.11 and Recolored  
+To 1.21.11 and Recolored Download The Curryfarts.jar and enjoy or if you want download the whole 
+Repo and dig through it just make sure to remove the .jar files from the rest of the files 
+since im too lazy to separate them myself 
 
 # AUTISM Account Manager for Minecraft 1.21.11
 
